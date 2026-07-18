@@ -72,6 +72,11 @@ final/
 | Name | Registration Number |
 |------|----------------------|
 | THEOPHILUS KIPLIMO ARUSEI | C025-01-0650/2023|
+| CECIL TEMO KITUU | C025-01-0639/2023|
+| HARRISON NJOROGE | C025-01-0610/2023|
+| MOHAMMED NYAMAWI NGOWA | C025-01-0601/2023|
+| JONES ABAYA MOTURI | C025-01-0643/2023|
+
 
 (Add the remaining group members later.)
 
