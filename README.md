@@ -71,7 +71,7 @@ final/
 
 | Name | Registration Number |
 |------|----------------------|
-| Your Name | Your Registration Number |
+| THEOPHILUS KIPLIMO ARUSEI | C025-01-0650/2023|
 
 (Add the remaining group members later.)
 
