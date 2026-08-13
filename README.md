@@ -82,6 +82,4 @@ final/
 
 ---
 
-## Project Status
 
-Week 1: Documentation and User Research (In Progress)
